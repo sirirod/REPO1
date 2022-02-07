@@ -21,3 +21,8 @@
 ## Platformio
 PlatformIO เป็น Open source software สําหรับพัฒนา Embedded หรือพัฒนา IoT ได้ในแบบ Cross-platform หมายความว่า PlatformIO จะช่วยให้เราสามารถพัฒนาโปรแกรมสําหรับ Embedded ตระกูล ใดๆก็ได้ เช่น Arduino, ESP8266, EMBED ฯลฯ
 
+สําหรับ PlatformIO มีสองแบบให้เลือกใช้งานตามความถนันคือ หรือจะใช้งานร่วมกันก็ได้
+
+  PlatformIO CLI: การใช้งานแบบ Command Line
+  PlatformIO IDE: การใช้งานผ่าน IDE ต่างๆ เช่น VSCode, Atom TextEditor
+
